@@ -1,0 +1,20 @@
+C:\Users\sjimm\source\repos\HP calculator\HP calculator\obj\Debug\HP calculator.csprojResolveAssemblyReference.cache
+C:\Users\sjimm\source\repos\HP calculator\HP calculator\obj\Debug\HP_calculator.Properties.Resources.resources
+C:\Users\sjimm\source\repos\HP calculator\HP calculator\obj\Debug\HP calculator.csproj.GenerateResource.cache
+C:\Users\sjimm\source\repos\HP calculator\HP calculator\obj\Debug\HP calculator.csproj.CoreCompileInputs.cache
+C:\Users\sjimm\source\repos\HP calculator\HP calculator\bin\Debug\HP calculator.exe.config
+C:\Users\sjimm\source\repos\HP calculator\HP calculator\bin\Debug\HP calculator.exe
+C:\Users\sjimm\source\repos\HP calculator\HP calculator\bin\Debug\HP calculator.pdb
+C:\Users\sjimm\source\repos\HP calculator\HP calculator\obj\Debug\HP calculator.exe
+C:\Users\sjimm\source\repos\HP calculator\HP calculator\obj\Debug\HP calculator.pdb
+C:\Users\sjimm\source\repos\HP calculator\HP calculator\obj\Debug\HP_calculator.Form1.resources
+C:\Users\Sjimmie\Documents\GitHub\HPcalculator\HP calculator\bin\Debug\HP calculator.exe.config
+C:\Users\Sjimmie\Documents\GitHub\HPcalculator\HP calculator\bin\Debug\HP calculator.exe
+C:\Users\Sjimmie\Documents\GitHub\HPcalculator\HP calculator\bin\Debug\HP calculator.pdb
+C:\Users\Sjimmie\Documents\GitHub\HPcalculator\HP calculator\obj\Debug\HP calculator.csprojAssemblyReference.cache
+C:\Users\Sjimmie\Documents\GitHub\HPcalculator\HP calculator\obj\Debug\HP_calculator.Form1.resources
+C:\Users\Sjimmie\Documents\GitHub\HPcalculator\HP calculator\obj\Debug\HP_calculator.Properties.Resources.resources
+C:\Users\Sjimmie\Documents\GitHub\HPcalculator\HP calculator\obj\Debug\HP calculator.csproj.GenerateResource.cache
+C:\Users\Sjimmie\Documents\GitHub\HPcalculator\HP calculator\obj\Debug\HP calculator.csproj.CoreCompileInputs.cache
+C:\Users\Sjimmie\Documents\GitHub\HPcalculator\HP calculator\obj\Debug\HP calculator.exe
+C:\Users\Sjimmie\Documents\GitHub\HPcalculator\HP calculator\obj\Debug\HP calculator.pdb
